@@ -21,6 +21,8 @@ print("Your name has " + new_num_char + " characters.")
 #Type Checking
 print(type(num_char))
 
+print(70 + float("100.5"))
+
 #Type Conversion
 str()
 int()
